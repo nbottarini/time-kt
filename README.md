@@ -15,7 +15,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.nbottarini:asimov-time:0.5")
+    implementation("com.nbottarini:asimov-time:0.5.1")
 }
 ```
 
@@ -27,7 +27,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.nbottarini:asimov-time:0.5'
+    implementation 'com.nbottarini:asimov-time:0.5.1'
 }
 ```
 
@@ -37,7 +37,7 @@ dependencies {
 <dependency>
     <groupId>com.nbottarini</groupId>
     <artifactId>asimov-time</artifactId>
-    <version>0.5</version>
+    <version>0.5.1</version>
 </dependency>
 ```
 
