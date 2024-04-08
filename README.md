@@ -1,8 +1,8 @@
-[![Maven](https://img.shields.io/maven-central/v/com.nbottarini/asimov-time.svg)](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22com.nbottarini%22%20AND%20a%3A%22asimov-time%22)
+[![Maven](https://img.shields.io/maven-central/v/dev.botta/time.svg)](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22dev.botta%22%20AND%20a%3A%22time%22)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI Status](https://github.com/nbottarini/asimov-time-kt/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/nbottarini/asimov-time-kt/actions?query=branch%3Amain+workflow%3Aci)
+[![CI Status](https://github.com/nbottarini/time-kt/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/nbottarini/time-kt/actions?query=branch%3Amain+workflow%3Aci)
 
-# asimov/time
+# Time
 Useful time and date related functions and extensions.
 
 ## Installation
@@ -15,7 +15,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.nbottarini:asimov-time:0.5.1")
+    implementation("dev.botta:time:0.6.0")
 }
 ```
 
@@ -27,7 +27,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.nbottarini:asimov-time:0.5.1'
+    implementation 'dev.botta:time:0.6.0'
 }
 ```
 
@@ -35,9 +35,9 @@ dependencies {
 
 ```xml
 <dependency>
-    <groupId>com.nbottarini</groupId>
-    <artifactId>asimov-time</artifactId>
-    <version>0.5.1</version>
+    <groupId>dev.botta</groupId>
+    <artifactId>time</artifactId>
+    <version>0.6.0</version>
 </dependency>
 ```
 

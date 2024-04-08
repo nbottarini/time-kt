@@ -1,4 +1,4 @@
-package com.nbottarini.asimov.time
+package dev.botta.time
 
 import java.time.LocalDate
 import java.time.LocalDateTime
