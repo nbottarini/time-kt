@@ -15,7 +15,7 @@ repositories {
 }
 
 dependencies {
-    implementation("dev.botta:time:0.6.0")
+    implementation("dev.botta:time:1.0.0")
 }
 ```
 
@@ -27,7 +27,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'dev.botta:time:0.6.0'
+    implementation 'dev.botta:time:1.0.0'
 }
 ```
 
@@ -37,7 +37,7 @@ dependencies {
 <dependency>
     <groupId>dev.botta</groupId>
     <artifactId>time</artifactId>
-    <version>0.6.0</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
